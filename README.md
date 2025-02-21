@@ -29,7 +29,7 @@ utils.py: Provides utility functions for calculating class weights, computing ev
 
 ### Quick start
 ```
-python run.py # to run hyperparameter tuning
+python run_hyperparameter_tuning.py # to run hyperparameter tuning
 ```
 ### Data
 Data used for training of the model is orignally acquired from [Physionet](https://physionet.org/content/ptb-xl/1.0.3/).
