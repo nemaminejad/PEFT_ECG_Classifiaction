@@ -35,20 +35,6 @@ python run_hyperparameter_tuning.py # to run hyperparameter tuning
 Data used for training of the model is orignally acquired from [Physionet](https://physionet.org/content/ptb-xl/1.0.3/).
 Preprocessed image data from ECG signals will be available soon. 
 
-### Data folder format
-├── data
-​ ├── Train
-​ │ ├── 0
-​ │ ├── 1
-​ │ ├── 2
-​ │ ├── 3
-​ │ └── 4
-​ ├── Validation
-​ │ └── ...
-​ └── Test
-​ └── ...
-
-
 ### Notes
 The code supports quantization using 4-bit precision to reduce memory footprint and improve training efficiency.
 Class weights are calculated to handle imbalanced datasets, ensuring that underrepresented classes are given more importance during training.
