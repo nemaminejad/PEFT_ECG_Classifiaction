@@ -37,16 +37,16 @@ Preprocessed image data from ECG signals will be available soon.
 
 ### Data folder format
 ├── data
-   ├── Train
-   │ ├── 0
-   │ ├── 1
-   │ ├── 2
-   │ ├── 3
-   │ └── 4
-   ├── Validation
-   │ ...
-   └── Test
-     ...
+​ ├── Train
+​ │ ├── 0
+​ │ ├── 1
+​ │ ├── 2
+​ │ ├── 3
+​ │ └── 4
+​ ├── Validation
+​ │ └── ...
+​ └── Test
+​ └── ...
 
 
 ### Notes
