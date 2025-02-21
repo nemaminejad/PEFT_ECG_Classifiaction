@@ -1,0 +1,8 @@
+bitsandbytes
+ray
+tensorboardx
+transformers==4.45.2
+sentence-transformers==3.1.1
+evaluate
+loralib
+peft
