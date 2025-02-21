@@ -32,14 +32,10 @@ The code in this repository performs the following:
 
 ### Usage
 1. Clone the repository.
-2. 
-3. Install the required dependencies in requirements.txt.
-4. 
-5. Prepare the ECG image data: Organize the data into training and validation directories.
-6. 
-7. Configure the training: Modify the train_dir and val_dir variables in run.py to point to the correct data directories.
-8. 
-9. Run the hyperparameter tuning: to start the hyperparameter tuning process using Ray Tune
+2. Install the required dependencies in requirements.txt.
+3. Prepare the ECG image data: Organize the data into training and validation directories.
+4. Configure the training: Modify the train_dir and val_dir variables in run.py to point to the correct data directories.
+5. Run the hyperparameter tuning: to start the hyperparameter tuning process using Ray Tune
 
 ### Quick start
 ```
